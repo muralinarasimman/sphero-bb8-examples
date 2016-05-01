@@ -3,6 +3,7 @@
 ##BB-8 SDK Resources:
 
 ###Sphere SDK and How to install guide:
+
 https://www.npmjs.com/package/sphero
 
 https://github.com/orbotix/sphero.js
