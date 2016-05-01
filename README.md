@@ -1,5 +1,14 @@
 # sphero-bb8-examples
 
+##BB-8 SDK Resources:
+
+###Sphere SDK and How to install guide:
+https://www.npmjs.com/package/sphero
+
+https://github.com/orbotix/sphero.js
+
+
+
 ##How to connect to BB8?
 
 ###Code Sample
